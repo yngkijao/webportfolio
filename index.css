@@ -43,3 +43,8 @@ h4, h2, h3, h5{
 .tools-img-1{
 	width: 90px;
 }
+.tools-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
